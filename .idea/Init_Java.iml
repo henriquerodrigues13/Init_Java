@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Aprendedo_Java/Indrodução_java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Aprendendo_Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java_conceitos_POO/ClasseAbstrata_Interface" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
